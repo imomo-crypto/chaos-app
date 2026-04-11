@@ -1,0 +1,87 @@
+{
+  "projects": [
+    {
+      "id": "i1775715471688t3p",
+      "name": "一问发布",
+      "tasks": [
+        {
+          "id": "i17757154716889k9",
+          "name": "列出3个候选名字划掉2个",
+          "note": "难的是怕选错，但名字随时能改，现在只是把无限可能收缩到一个。",
+          "minutes": 5,
+          "size": "XS",
+          "can_split": false,
+          "split_into": []
+        },
+        {
+          "id": "i1775715471688vzp",
+          "name": "问句读出声来，别扭的改掉",
+          "note": "眼睛看会骗你，嘴巴说不出口才是真的别扭。",
+          "minutes": 15,
+          "size": "S",
+          "can_split": false,
+          "split_into": []
+        },
+        {
+          "id": "i1775715471688bl3",
+          "name": "确定图标方案手机确认显示正常",
+          "note": "容易卡在图标不够好，但目标是发出去不是做完美图标。",
+          "minutes": 20,
+          "size": "S",
+          "can_split": false,
+          "split_into": []
+        },
+        {
+          "id": "i1775715471688hnr",
+          "name": "建仓库推文件手机确认能打开",
+          "note": "这步没有决策只有操作，卡住了就是命令没跑通，搜一下解决。",
+          "minutes": 30,
+          "size": "M",
+          "can_split": true,
+          "split_into": [
+            {
+              "name": "建好 GitHub 仓库设置权限",
+              "note": "就是点几下，没有决策。",
+              "minutes": 5
+            },
+            {
+              "name": "把文件推上去",
+              "note": "git add commit push，卡了搜命令。",
+              "minutes": 10
+            },
+            {
+              "name": "手机浏览器确认能打开",
+              "note": "这是验收，做完就完成了。",
+              "minutes": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "i1775715471688b1s",
+      "name": "账号调性",
+      "tasks": [
+        {
+          "id": "i1775715471688vwx",
+          "name": "写一句话：这个账号让人觉得____",
+          "note": "不用想太久，第一个浮现的往往是对的。今天必须有一个。",
+          "minutes": 10,
+          "size": "S",
+          "can_split": false,
+          "split_into": []
+        },
+        {
+          "id": "i1775715471688tqb",
+          "name": "找5个对味账号记下最真实的那条",
+          "note": "「想多参考」是拖延的形状，限定5个20分钟。",
+          "minutes": 20,
+          "size": "S",
+          "can_split": false,
+          "split_into": []
+        }
+      ]
+    }
+  ],
+  "done": []
+}
